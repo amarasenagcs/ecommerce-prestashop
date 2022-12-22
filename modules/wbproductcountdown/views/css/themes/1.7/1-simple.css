@@ -1,0 +1,50 @@
+#products .wbproductcountdown .count.curr, #products .wbproductcountdown .count.bottom,
+.wbproductcountdown .count.curr, .wbproductcountdown .count.bottom {
+    display: none;
+}
+.wbproductcountdown .hidden {
+    display: none;
+}
+.wbpc-main .time {
+    display: inline-block;
+}
+#products .wbpc-main .count,
+.wbpc-main .count {
+    font-size: 14px;
+    display: block;
+}
+.wbpc-main .seconds .count,
+#products .wbpc-main .seconds .count {
+    color: #000;
+}
+.wbpc-main .count{
+    background-color: #fff;
+    min-width: 45px;
+    min-height: 45px;
+    margin: 0 3px;
+    font-size: 17px;
+    text-align: center;
+    padding: 11px 0 6px;
+    transition: 0.3s ease;
+    border: 2px solid #e7e7e7;
+}
+.wbpc-main .label{
+	color: #919191;
+	text-transform: capitalize;
+	font-size: 13px;
+	margin-top: 8px;
+	display: block;
+	text-align: center;
+}
+.wbpc-main .time:hover .count{
+	border: 2px solid #fb4d01;
+}
+@media (max-width: 1199px) {
+    .wbpc-main .count{
+        padding: 10px 0 6px;
+        font-size: 14px;
+        min-width: 40px;
+        min-height: 40px;
+        margin: 0 2px;
+    }
+}

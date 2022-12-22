@@ -1,0 +1,198 @@
+<wb_static_blocks>
+<!-- static block configuration -->
+    <block>
+        <id_wbstaticblock>1</id_wbstaticblock>
+        <identify>wb_Headerlink</identify>
+        <hook_position>displayNavFullWidth</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <wborder>0</wborder>
+        <insert_module>0</insert_module>
+        <active>0</active>
+        <showhook>1</showhook>
+    </block>
+    <block>
+        <id_wbstaticblock>2</id_wbstaticblock>
+        <identify>testimonial</identify>
+        <hook_position>displayLeftColumn</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <wborder>0</wborder>
+        <insert_module>0</insert_module>
+        <active>0</active>
+        <showhook>1</showhook>
+    </block>
+    <block>
+        <id_wbstaticblock>3</id_wbstaticblock>
+        <identify>testimonial_left</identify>
+        <hook_position>displayLeftColumnProduct</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <wborder>0</wborder>
+        <insert_module>0</insert_module>
+        <active>0</active>
+        <showhook>1</showhook>
+    </block>
+     <block>
+        <id_wbstaticblock>4</id_wbstaticblock>
+        <identify>wb_link</identify>
+        <hook_position>displayFooterDown</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <wborder>0</wborder>
+        <insert_module>0</insert_module>
+        <active>0</active>
+        <showhook>1</showhook>
+    </block>
+    <block>
+        <id_wbstaticblock>5</id_wbstaticblock>
+        <identify>top_left</identify>
+        <hook_position>displayNav1</hook_position>
+        <name_module></name_module>
+        <hook_module></hook_module>
+        <wborder>0</wborder>
+        <insert_module>0</insert_module>
+        <active>0</active>
+        <showhook>1</showhook>
+    </block>
+<!-- block lang configuration -->
+    <block_lang>
+        <id_wbstaticblock>1</id_wbstaticblock>
+        <id_lang>1</id_lang>
+        <title>Wb Header Link</title>
+        <description>
+             <![CDATA[<div class="statm hidden-sm-down text-xs-center">
+<ul class=" statm-left">
+<li><a href="contact-us" class="f4 ">contact</a></li>
+<li><a href="sitemap" class="f4 ">sitemap</a></li>
+<li><a href="prices-drop" class="f4">special</a></li>
+<li><a href="best-sales" class="f4 ">best seller</a></li>
+<li><a href="new-products" class="f4 ">new arrivals</a></li>
+<li><a href="#" class="f4 ">gifts</a></li>
+</ul>
+</div>]]>
+        </description>
+    </block_lang>
+    <block_lang>
+        <id_wbstaticblock>2</id_wbstaticblock>
+        <id_lang>1</id_lang>
+        <title>Testimonial</title>
+        <description>
+             <![CDATA[<div class="testim">
+<div class="left-home-heading"><span>testimonial</span></div>
+<div class="testi-bg  text-xs-center">
+<div id="testi" class="owl-carousel owl-theme">
+<div class="item">
+<div class="img-responsive center-block testi1"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+<div class="item">
+<div class="img-responsive center-block testi2"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+<div class="item">
+<div class="img-responsive center-block testi3"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+</div>
+</div>
+</div>]]>
+        </description>
+    </block_lang>
+    <block_lang>
+        <id_wbstaticblock>3</id_wbstaticblock>
+        <id_lang>1</id_lang>
+        <title>Testimonial_Left</title>
+        <description>
+             <![CDATA[<div class="testim">
+<div class="left-home-heading"><span>testimonial</span></div>
+<div class="testi-bg  text-xs-center">
+<div id="testi" class="owl-carousel owl-theme">
+<div class="item">
+<div class="img-responsive center-block testi1"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+<div class="item">
+<div class="img-responsive center-block testi2"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+<div class="item">
+<div class="img-responsive center-block testi3"></div>
+<div class="content_test">
+<h3>Jesica Wilson</h3>
+<hr class="thr" />
+<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium..</p>
+<span>developer</span></div>
+</div>
+</div>
+</div>
+</div>]]>
+        </description>
+    </block_lang>
+    <block_lang>
+        <id_wbstaticblock>4</id_wbstaticblock>
+        <id_lang>1</id_lang>
+        <title>Wb Link</title>
+        <description>
+             <![CDATA[<div class=" pay-connect text-xs-center">
+<h4 class="pay">payment</h4>
+<ul class="list-inline list-unstyled payment">
+<li><a href="#"><i class="fa fa-cc-mastercard"></i></a></li>
+<li><a href="#"><i class="fa fa-cc-visa"></i></a></li>
+<li><a href="#"><i class="fa fa-credit-card"></i></a></li>
+<li><a href="#"><i class="fa fa-cc-paypal"></i></a></li>
+</ul>
+</div>]]>
+        </description>
+    </block_lang>
+    <block_lang>
+        <id_wbstaticblock>5</id_wbstaticblock>
+        <id_lang>1</id_lang>
+        <title>Top Left</title>
+        <description>
+             <![CDATA[<p><span class="scon f1">Discount off 50% on this holiday! Faster and faster!</span></p>]]>
+        </description>
+    </block_lang>
+
+<!-- block shop configuration -->
+    <block_shop>
+        <id_wbstaticblock>1</id_wbstaticblock>
+        <id_shop>1</id_shop>
+    </block_shop>
+    <block_shop>
+        <id_wbstaticblock>2</id_wbstaticblock>
+        <id_shop>1</id_shop>
+    </block_shop>
+    <block_shop>
+        <id_wbstaticblock>3</id_wbstaticblock>
+        <id_shop>1</id_shop>
+    </block_shop>
+    <block_shop>
+        <id_wbstaticblock>4</id_wbstaticblock>
+        <id_shop>1</id_shop>
+    </block_shop>
+    <block_shop>
+        <id_wbstaticblock>5</id_wbstaticblock>
+        <id_shop>1</id_shop>
+    </block_shop>
+</wb_static_blocks>

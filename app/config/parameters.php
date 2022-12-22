@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'testecommerce',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'fpOF29bT2ZnnbEjO7kmKZXGHPW1HbOAe1PuF7ZXGSVHHxADqgdhjHdYSJo9HNv44',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-12-16',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'QSUyMT8R3TrMeCzIP1VdjxNWMdMgFtK39ER8ih9fp8epxFLtFjLt2QhKQEPWc9Ed',
+    'cookie_iv' => 'bun4UUMrJ3udApHG92Y55HjdnjLnuVu8',
+    'new_cookie_key' => 'def00000d6d898e68547c2434cda210170d261ac10919375bd46e6786a55c6c57c52fc1691d5724c65ef2f83054ffa026f692dca5ecfcd0cfcb3445211b189e9612369ae',
+  ),
+);
