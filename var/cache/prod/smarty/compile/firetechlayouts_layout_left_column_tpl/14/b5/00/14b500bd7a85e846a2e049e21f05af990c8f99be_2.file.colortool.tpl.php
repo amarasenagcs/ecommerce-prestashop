@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:11
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:43
   from 'C:\wamp64\www\prestadefault\modules\wbthemecustomizer\views\templates\front\colortool.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e893160454_86747544',
+  'unifunc' => 'content_63b2ac778750b0_63928084',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '14b500bd7a85e846a2e049e21f05af990c8f99be' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\modules\\wbthemecustomizer\\views\\templates\\front\\colortool.tpl',
-      1 => 1671685649,
+      1 => 1671695908,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e893160454_86747544 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac778750b0_63928084 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="wb-demo-wrap">
     <h2 class="wb-demo-title"><?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['l'][0], array( array('s'=>'Theme Settings','mod'=>'wbthemecustomizer'),$_smarty_tpl ) );?>
 </h2>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:15
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:45
   from 'module:wbfeatureviewstemplatesfr' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e897be4395_77378934',
+  'unifunc' => 'content_63b2ac79e6a9f2_27972353',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9298a49ad71ac901a3ecc0f1992622f79cc87373' => 
     array (
       0 => 'module:wbfeatureviewstemplatesfr',
-      1 => 1671685647,
+      1 => 1671695907,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e897be4395_77378934 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac79e6a9f2_27972353 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="modal wb-modal wb-modal-cart fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<!--
 	<div class="vertical-alignment-helper">

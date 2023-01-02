@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:07
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:42
   from 'C:\wamp64\www\prestadefault\modules\wbproductcountdown\views\templates\hook\header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e88f53b695_10390003',
+  'unifunc' => 'content_63b2ac76591427_09514745',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '94c5f39a83c68b052ada43548ac70e7260abf3ba' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\modules\\wbproductcountdown\\views\\templates\\hook\\header.tpl',
-      1 => 1671685648,
+      1 => 1671695907,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e88f53b695_10390003 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac76591427_09514745 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- module wbproductcountdown start -->
 <?php echo '<script'; ?>
  type="text/javascript">

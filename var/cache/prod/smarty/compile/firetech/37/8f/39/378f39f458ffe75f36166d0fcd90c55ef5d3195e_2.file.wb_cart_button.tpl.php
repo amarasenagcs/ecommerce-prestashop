@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:08
+/* Smarty version 3.1.43, created on 2023-01-02 05:17:53
   from 'C:\wamp64\www\prestadefault\modules\wbfeature\views\templates\hook\wb_cart_button.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e8904610f5_79783314',
+  'unifunc' => 'content_63b2af516ec8d4_20667426',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '378f39f458ffe75f36166d0fcd90c55ef5d3195e' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\modules\\wbfeature\\views\\templates\\hook\\wb_cart_button.tpl',
-      1 => 1671685647,
+      1 => 1671695907,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e8904610f5_79783314 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2af516ec8d4_20667426 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="button-container cart add-cart">
 	<form action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link_cart']->value, ENT_QUOTES, 'UTF-8');?>

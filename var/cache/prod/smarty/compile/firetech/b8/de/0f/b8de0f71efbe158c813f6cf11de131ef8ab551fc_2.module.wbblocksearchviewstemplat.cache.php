@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:11
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:43
   from 'module:wbblocksearchviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e8937e1a50_08904999',
+  'unifunc' => 'content_63b2ac77e13577_65139782',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b8de0f71efbe158c813f6cf11de131ef8ab551fc' => 
     array (
       0 => 'module:wbblocksearchviewstemplat',
-      1 => 1671685646,
+      1 => 1671695906,
       2 => 'module',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e8937e1a50_08904999 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '196437472263a3e8937b1223_76040909';
+function content_63b2ac77e13577_65139782 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '187386628163b2ac77ddd398_83173994';
 ?>
 
 <?php if ((isset($_smarty_tpl->tpl_vars['hook_mobile']->value))) {?>

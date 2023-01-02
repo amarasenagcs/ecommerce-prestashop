@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:11
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:44
   from 'C:\wamp64\www\prestadefault\modules\wbfeature\views\templates\hook\wb_compare_headlink.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e893b07ec2_30033880',
+  'unifunc' => 'content_63b2ac781c9f86_65279607',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9e2cc75d66be914787f5871e329210571d17bcec' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\modules\\wbfeature\\views\\templates\\hook\\wb_compare_headlink.tpl',
-      1 => 1671685647,
+      1 => 1671695907,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e893b07ec2_30033880 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac781c9f86_65279607 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="hcom">
 <a id="compare-link" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['productcompare_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">

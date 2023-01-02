@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:08
+/* Smarty version 3.1.43, created on 2023-01-02 05:17:53
   from 'C:\wamp64\www\prestadefault\modules\wbfeature\views\templates\hook\wb_compare_button.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e8906c6898_54427455',
+  'unifunc' => 'content_63b2af51964b21_06887739',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b6697967a79f00e2f95518b5aaae218b1480f72f' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\modules\\wbfeature\\views\\templates\\hook\\wb_compare_button.tpl',
-      1 => 1671685647,
+      1 => 1671695907,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e8906c6898_54427455 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2af51964b21_06887739 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="compare">
 	<a class="wb-compare-button btn-product btn<?php if ($_smarty_tpl->tpl_vars['added']->value) {?> added<?php }?>" href="javascript:void(0)" data-id-product="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['wb_compare_id_product']->value, ENT_QUOTES, 'UTF-8');?>
 " title="<?php if ($_smarty_tpl->tpl_vars['added']->value) {

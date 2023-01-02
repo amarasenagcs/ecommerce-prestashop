@@ -1,30 +1,30 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:09
+/* Smarty version 3.1.43, created on 2023-01-02 05:17:53
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e891413229_21529011',
+  'unifunc' => 'content_63b2af51d11728_45112210',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4a8df44403a47041b050fac755e17268c2a7c3e7' => 
     array (
       0 => 'module:psnewproductsviewstemplat',
-      1 => 1671685652,
+      1 => 1671695918,
       2 => 'module',
     ),
     'df9fae9b5e3c747f4df13015c33c50cc8e929724' => 
     array (
       0 => 'C:\\wamp64\\www\\prestadefault\\themes\\firetech\\templates\\catalog\\_partials\\miniatures\\product.tpl',
-      1 => 1671685652,
+      1 => 1671695918,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_63a3e891413229_21529011 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2af51d11728_45112210 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products tab-pane clearfix" id="tab-new-0" >
 
   <div class="products owl-carousel owl-theme" id="owl-new">

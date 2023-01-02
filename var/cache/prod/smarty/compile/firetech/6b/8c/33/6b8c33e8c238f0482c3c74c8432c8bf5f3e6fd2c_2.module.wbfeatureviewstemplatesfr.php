@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:15
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:45
   from 'module:wbfeatureviewstemplatesfr' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e897ec7129_51824896',
+  'unifunc' => 'content_63b2ac79f364f5_25909013',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '6b8c33e8c238f0482c3c74c8432c8bf5f3e6fd2c' => 
     array (
       0 => 'module:wbfeatureviewstemplatesfr',
-      1 => 1671685647,
+      1 => 1671695907,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63a3e897ec7129_51824896 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac79f364f5_25909013 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="wb-notification" style="width: <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['width_notification']->value, ENT_QUOTES, 'UTF-8');?>
 px; <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['vertical_position']->value, ENT_QUOTES, 'UTF-8');?>
 ; <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['horizontal_position']->value, ENT_QUOTES, 'UTF-8');?>

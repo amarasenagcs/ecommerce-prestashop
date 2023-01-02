@@ -64,6 +64,9 @@ class CustomerCore extends ObjectModel
     /** @var string Birthday (yyyy-mm-dd) */
     public $birthday = null;
 
+    /** @var string Phonenumber */
+    public $phonenumber;
+
     /** @var string e-mail */
     public $email;
 
@@ -184,6 +187,7 @@ class CustomerCore extends ObjectModel
             'last_passwd_gen' => ['type' => self::TYPE_STRING, 'copy_post' => false],
             'id_gender' => ['type' => self::TYPE_INT, 'validate' => 'isUnsignedId'],
             'birthday' => ['type' => self::TYPE_DATE, 'validate' => 'isBirthDate'],
+            'phonenumber'=>['type' =>self::TYPE_STRING, 'required'=> true, 'size'=>10],
             'newsletter' => ['type' => self::TYPE_BOOL, 'validate' => 'isBool'],
             'newsletter_date_add' => ['type' => self::TYPE_DATE, 'copy_post' => false],
             'ip_registration_newsletter' => ['type' => self::TYPE_STRING, 'copy_post' => false],

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:09
+/* Smarty version 3.1.43, created on 2023-01-02 05:17:54
   from 'module:psbestsellersviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e891621dc9_26693454',
+  'unifunc' => 'content_63b2af52159141_45606794',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '3681aa30d1f85f48e2cf4794b77200e697f706a9' => 
     array (
       0 => 'module:psbestsellersviewstemplat',
-      1 => 1671685651,
+      1 => 1671695918,
       2 => 'module',
     ),
   ),
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 2,
   ),
 ),false)) {
-function content_63a3e891621dc9_26693454 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '124147773363a3e8915fd3b0_34731461';
+function content_63b2af52159141_45606794 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '34357822063b2af521364e3_78254053';
 ?>
 <section class="featured-products tab-pane clearfix" id="tab-best-0">
   <div class="products  owl-carousel owl-theme" id="owl-best">

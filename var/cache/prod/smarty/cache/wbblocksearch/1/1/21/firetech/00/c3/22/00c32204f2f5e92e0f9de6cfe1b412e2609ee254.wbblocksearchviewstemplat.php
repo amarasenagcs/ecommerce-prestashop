@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:11
+/* Smarty version 3.1.43, created on 2023-01-02 05:05:43
   from 'module:wbblocksearchviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e893913006_43088648',
+  'unifunc' => 'content_63b2ac77f33c25_55384318',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b8de0f71efbe158c813f6cf11de131ef8ab551fc' => 
     array (
       0 => 'module:wbblocksearchviewstemplat',
-      1 => 1671685646,
+      1 => 1671695906,
       2 => 'module',
     ),
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_63a3e893913006_43088648 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63b2ac77f33c25_55384318 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!-- Block search module TOP -->
 <div class="wbSearch col-xl-9 col-lg-9 col-md-8 col-sm-12 col-xs-12">

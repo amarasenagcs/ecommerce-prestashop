@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-22 00:18:08
+/* Smarty version 3.1.43, created on 2023-01-02 05:17:52
   from 'module:psnewproductsviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63a3e890dbe0d0_90621328',
+  'unifunc' => 'content_63b2af50ea5b95_01310971',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '4a8df44403a47041b050fac755e17268c2a7c3e7' => 
     array (
       0 => 'module:psnewproductsviewstemplat',
-      1 => 1671685652,
+      1 => 1671695918,
       2 => 'module',
     ),
   ),
@@ -21,8 +21,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 2,
   ),
 ),false)) {
-function content_63a3e890dbe0d0_90621328 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '126869739163a3e890d945c9_86329181';
+function content_63b2af50ea5b95_01310971 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '186491164763b2af50e6d934_15005232';
 ?>
 <section class="featured-products tab-pane clearfix" id="tab-new-0" >
 

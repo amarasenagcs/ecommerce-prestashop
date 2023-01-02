@@ -216,6 +216,22 @@ class CustomerFormatterCore implements FormFormatterInterface
                 );
         }
 
+        $format['phonenumber'] = (new FormField())
+            ->setName('phonenumber')
+            ->setType('text')
+            ->setLabel(
+                $this->translator->trans(
+                    'Phone Number',
+                    [],
+                    'Shop.Forms.Labels'
+                )
+            )
+            ->setRequired(true)
+            ->addAvailableValue(
+                'comment',
+                $this->translator->trans('only numbers can enter', [], 'Shop.Forms.Help')
+            );
+
         if ($this->ask_for_partner_optin) {
             $format['optin'] = (new FormField())
                 ->setName('optin')
@@ -229,6 +245,8 @@ class CustomerFormatterCore implements FormFormatterInterface
                 )
                 ->setRequired($this->partner_optin_is_required);
         }
+
+
 
         // ToDo, replace the hook exec with HookFinder when the associated PR will be merged
         $additionalCustomerFormFields = Hook::exec('additionalCustomerFormFields', ['fields' => &$format], null, true);
